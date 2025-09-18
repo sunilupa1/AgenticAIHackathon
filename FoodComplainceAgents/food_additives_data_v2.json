@@ -1,0 +1,107 @@
+[
+  {
+    "code": "E122",
+    "name": "Azorubine / Carmoisine",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "100 mg/L",
+        "function": "Colour"
+      },
+      {
+        "category_id": "4.2.5.2",
+        "category_name": "Jams",
+        "max_level": "100 mg/kg",
+        "function": "Colour"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E102",
+    "name": "Tartrazine",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Beverages",
+        "max_level": "20 mg/l",
+        "function": "Colour"
+      }
+    ],
+    "regulation": "Commission Regulation (EU) No 1129/2011"
+  },
+  {
+    "code": "E110",
+    "name": "Sunset Yellow FCF",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Beverages",
+        "max_level": "50 mg/l",
+        "function": "Colour"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E128",
+    "name": "Red 2G",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Colour",
+    "regulation": "Regulation (EC) No 1333/2008 (removed entry after 2007/151/EC)"
+  },
+  {
+    "code": "E202",
+    "name": "Potassium Sorbate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Beverages",
+        "max_level": "300 mg/l",
+        "function": "Preservative"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E211",
+    "name": "Sodium benzoate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks and certain non-alcoholic beverages",
+        "max_level": "150 mg/L",
+        "function": "Preservative"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E322",
+    "name": "Lecithins",
+    "food_categories": [
+      {
+        "category_id": "5.1",
+        "category_name": "Chocolate",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E330",
+    "name": "Citric Acid",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Beverages",
+        "max_level": "Quantum satis",
+        "function": "Acidity regulator"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  }
+]

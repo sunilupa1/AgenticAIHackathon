@@ -1,0 +1,1218 @@
+[
+  {
+    "code": "E122",
+    "name": "Azorubine / Carmoisine",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "100 mg/L",
+        "function": "Colour"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E128",
+    "name": "Red 2G",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Colour",
+    "regulation": "Regulation (EC) No 1333/2008 (removed entry after 2007/151/EC)"
+  },
+  {
+    "code": "E211",
+    "name": "Sodium benzoate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks and certain non-alcoholic beverages",
+        "max_level": "150 mg/L",
+        "function": "Preservative"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E322",
+    "name": "Lecithins",
+    "food_categories": [
+      {
+        "category_id": "5.1",
+        "category_name": "Chocolate",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E400",
+    "name": "Alginic acid",
+    "food_categories": [
+      {
+        "category_id": "13.1.1",
+        "category_name": "Infant formulae",
+        "max_level": "1000 mg/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E401",
+    "name": "Sodium alginate",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E402",
+    "name": "Potassium alginate",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E403",
+    "name": "Ammonium alginate",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E404",
+    "name": "Calcium alginate",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E405",
+    "name": "Propane-1, 2-diol alginate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "300 mg/L",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E406",
+    "name": "Agar",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E407",
+    "name": "Carrageenan",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E408",
+    "name": "Bakers Yeast Glycan",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Stabiliser",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E409",
+    "name": "Arabinogalactan",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Thickener",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E410",
+    "name": "Locust bean gum",
+    "food_categories": [
+      {
+        "category_id": "13.1.1",
+        "category_name": "Infant formulae",
+        "max_level": "1000 mg/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E411",
+    "name": "Oat gum",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Thickener",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E412",
+    "name": "Guar gum",
+    "food_categories": [
+      {
+        "category_id": "13.1.1",
+        "category_name": "Infant formulae",
+        "max_level": "1000 mg/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E413",
+    "name": "Tragacanth",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E414",
+    "name": "Acacia gum (gum arabic)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E415",
+    "name": "Xanthan gum",
+    "food_categories": [
+      {
+        "category_id": "13.1.1",
+        "category_name": "Infant formulae",
+        "max_level": "1200 mg/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E416",
+    "name": "Karaya gum",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E417",
+    "name": "Tara gum",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E418",
+    "name": "Gellan gum",
+    "food_categories": [
+      {
+        "category_id": "13.1.1",
+        "category_name": "Infant formulae",
+        "max_level": "1000 mg/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E419",
+    "name": "Ghatti gum",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Thickener",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E420",
+    "name": "Sorbitol",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Sweetener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E421",
+    "name": "Mannitol",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Sweetener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E422",
+    "name": "Glycerol",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Humectant"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E423",
+    "name": "Octenyl succinic acid modified gum arabic",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E424",
+    "name": "Curdlan",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Thickener",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E425",
+    "name": "Konjac",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "10 g/kg",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E426",
+    "name": "Soybean hemicellulose",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "Quantum satis",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E427",
+    "name": "Cassia gum",
+    "food_categories": [
+      {
+        "category_id": "1.4",
+        "category_name": "Flavoured fermented milk products",
+        "max_level": "2500 mg/kg",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E428",
+    "name": "Gelatine",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Stabiliser",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E429",
+    "name": "Peptones",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Stabiliser",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E430",
+    "name": "Polyoxyethene (8) stearate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E431",
+    "name": "Polyoxyethylene (40) stearate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "10 mg/L",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E432",
+    "name": "Polyoxyethylene sorbitan monolaurate (polysorbate 20)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "500 mg/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E433",
+    "name": "Polyoxyethylene sorbitan monooleate (polysorbate 80)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "500 mg/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E434",
+    "name": "Polyoxyethylene sorbitan monopalmitate (polysorbate 40)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "500 mg/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E435",
+    "name": "Polyoxyethylene sorbitan monostearate (polysorbate 60)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "500 mg/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E436",
+    "name": "Polyoxyethylene sorbitan tristearate (polysorbate 65)",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "500 mg/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E437",
+    "name": "Polyoxyethylene (20) sorbitan monolaurate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E438",
+    "name": "Polyoxyethylene (20) sorbitan mono-oleate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E439",
+    "name": "Polyoxyethylene (20) sorbitan monostearate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E440",
+    "name": "Pectins",
+    "food_categories": [
+      {
+        "category_id": "4.2.5.2",
+        "category_name": "Jams, jellies and marmalades",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E441",
+    "name": "Gelatine",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Stabiliser",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E442",
+    "name": "Ammonium phosphatides",
+    "food_categories": [
+      {
+        "category_id": "5.1",
+        "category_name": "Cocoa and Chocolate products",
+        "max_level": "10 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E443",
+    "name": "Brominated vegetable oil",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E444",
+    "name": "Sucrose acetate isobutyrate",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "300 mg/L",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E445",
+    "name": "Glycerol esters of wood rosins",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "100 mg/L",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E446",
+    "name": "Succinylated-mono-and-di-glycerides-of-fatty-acids",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E447",
+    "name": "Mono-and-di-acetyltartaric-acid-esters-of-mono-and-di-glycerides-of-fatty-acids",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E448",
+    "name": "Tartaric-acid-esters-of-mono-and-di-glycerides-of-fatty-acids",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E449",
+    "name": "Citric-and-fatty-acid-esters-of-glycerol",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E450",
+    "name": "Diphosphates",
+    "food_categories": [
+      {
+        "category_id": "8.2",
+        "category_name": "Processed meat",
+        "max_level": "5 g/kg",
+        "function": "Acidity regulator"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E451",
+    "name": "Triphosphates",
+    "food_categories": [
+      {
+        "category_id": "8.2",
+        "category_name": "Processed meat",
+        "max_level": "5 g/kg",
+        "function": "Acidity regulator"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E452",
+    "name": "Polyphosphates",
+    "food_categories": [
+      {
+        "category_id": "8.2",
+        "category_name": "Processed meat",
+        "max_level": "5 g/kg",
+        "function": "Acidity regulator"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E453",
+    "name": "Magnesium carbonate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Acidity regulator",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E454",
+    "name": "Calcium polyphosphate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E455",
+    "name": "Potassium polyphosphate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E456",
+    "name": "Sodium polyphosphate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E457",
+    "name": "Calcium polyphosphates",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E458",
+    "name": "Potassium polyphosphates",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E459",
+    "name": "Beta-cyclodextrin",
+    "food_categories": [
+      {
+        "category_id": "14.1.4",
+        "category_name": "Flavoured drinks",
+        "max_level": "1 g/L",
+        "function": "Stabiliser"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E460",
+    "name": "Cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E461",
+    "name": "Methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E462",
+    "name": "Ethyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E463",
+    "name": "Hydroxypropyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E464",
+    "name": "Hydroxypropyl methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E465",
+    "name": "Ethyl methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E466",
+    "name": "Carboxy methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E467",
+    "name": "Ethyl hydroxyethyl cellulose",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Thickener",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E468",
+    "name": "Cross-linked sodium carboxy methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E469",
+    "name": "Enzymatically hydrolysed carboxy methyl cellulose",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Thickener"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E470a",
+    "name": "Sodium, potassium and calcium salts of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E470b",
+    "name": "Magnesium salts of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E471",
+    "name": "Mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472a",
+    "name": "Acetic acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472b",
+    "name": "Lactic acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472c",
+    "name": "Citric acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472d",
+    "name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472e",
+    "name": "Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E472f",
+    "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E473",
+    "name": "Sucrose esters of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "10 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E474",
+    "name": "Sucroglycerides",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "10 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E475",
+    "name": "Polyglycerol esters of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "5 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E476",
+    "name": "Polyglycerol polyricinoleate",
+    "food_categories": [
+      {
+        "category_id": "5.1",
+        "category_name": "Cocoa and Chocolate products",
+        "max_level": "5 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E477",
+    "name": "Propane-1, 2-diol esters of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "5.2",
+        "category_name": "Confectionery",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E478",
+    "name": "Lactylated fatty acid esters of glycerol and propane-1",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E479b",
+    "name": "Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids",
+    "food_categories": [
+      {
+        "category_id": "10.2",
+        "category_name": "Processed eggs and egg products",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E481",
+    "name": "Sodium stearoyl-2-lactylate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "3 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E482",
+    "name": "Calcium stearoyl-2-lactylate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "3 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E483",
+    "name": "Stearyl tartrate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "4 g/kg",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E484",
+    "name": "Sodium stearoyl fumarate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E485",
+    "name": "Calcium stearoyl fumarate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E486",
+    "name": "Sodium laurylsulphate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E487",
+    "name": "Sodium oleylsulphate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E488",
+    "name": "Ethoxylated-mono-and-di-glycerides",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E489",
+    "name": "Methyl-glucoside-coconut-oil-ester",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E490",
+    "name": "Propane-1, 2-diol",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Solvent",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E491",
+    "name": "Sorbitan monostearate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E492",
+    "name": "Sorbitan tristearate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E493",
+    "name": "Sorbitan monolaurate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E494",
+    "name": "Sorbitan monooleate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E495",
+    "name": "Sorbitan monopalmitate",
+    "food_categories": [
+      {
+        "category_id": "7.1",
+        "category_name": "Bread and rolls",
+        "max_level": "Quantum satis",
+        "function": "Emulsifier"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E496",
+    "name": "Sorbitan trioleate",
+    "food_categories": [],
+    "max_level": "Not permitted",
+    "function": "Emulsifier",
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  },
+  {
+    "code": "E220",
+    "name": "Sulphur dioxide",
+    "food_categories": [
+      {
+        "category_id": "4.2.2",
+        "category_name": "Dried fruits",
+        "max_level": "2000 mg/kg",
+        "function": "Preservative"
+      }
+    ],
+    "regulation": "Regulation (EC) No 1333/2008 Annex II"
+  }
+]
